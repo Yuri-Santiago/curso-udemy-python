@@ -1,6 +1,7 @@
 """
 Estruturas Condicionais
 if(Se), else(Senão), elif(else if)
+
 """
 
 idade = int(input('Digite sua Idade'))

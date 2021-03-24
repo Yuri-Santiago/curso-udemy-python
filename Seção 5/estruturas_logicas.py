@@ -9,6 +9,7 @@ Para o and ambos os valores precisam ser True para retornar True
 Para o or um dos valores precisa ser True para retornar True
 O not inverte o valor booleano
 O is verifica se o valor é aquilo
+
 """
 
 logado = False
