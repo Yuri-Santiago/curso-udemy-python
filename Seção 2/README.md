@@ -1,2 +1,0 @@
-Seção 3 do curso onde tivemos uma introdução à linguagem Python, vimos sobre a PEP8 e suas boas práticas, a utilização do Dir e Help para sabermos mais sobre as nunces 
-da linguagem e por fim como receber dados do usuário e os diferentes tipos de print.
