@@ -1,1 +1,3 @@
-Na Seção 7 nós aprendemos sobre as Coleções em Python
+Na Seção 7 aprendi sobre as Coleções em Python, vi sobre as principais estruturas de dados, Listas, Tuplas, 
+Sets, Dicionários e também extendi o aprendizado vendo sobre o módulo Collections, que tem mais estruturas de alta 
+performance, como o Deque, Named Tuple e Default Dict.
