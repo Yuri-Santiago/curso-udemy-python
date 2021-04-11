@@ -5,12 +5,15 @@ uma matriz de 3 x 3, onde cadda posição representa uma das casas do tabuleiro.
 contendo uma peça do jogador 2.
 """
 
+# Aqui iniciamos a matriz
 matriz = []
 for x in range(3):
     matriz.append([])
     for i in range(3):
         matriz[x].append(0)
 # def jogada_obvia():
+
+# Função que validará a jogada do jogador
 
 
 def jogada(num):
@@ -22,6 +25,8 @@ def jogada(num):
     else:
         print("jogada inválida")
         jogada(num)
+
+# Função que checa o fim do jogo
 
 
 def checa():
@@ -37,6 +42,8 @@ def checa():
     else:
         condicao = vitoria()
         return condicao
+
+# Função que checa se algum jogador ganhou
 
 
 def vitoria():
@@ -67,6 +74,7 @@ def vitoria():
     return 1 if vit >= 1 else 0
 
 
+# Inicio do nosso jogo
 print("inicie o jogo")
 vez = 1
 fim = 0
@@ -81,7 +89,7 @@ while fim < 1:
     vez += 1
     fim = checa()
     # jogada_obvia()
-
+# Fim do jogo
 print('   0  1  2')
 [print(a, matriz[a]) for a in range(3)]
 print('O jogo acabou.')

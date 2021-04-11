@@ -1,0 +1,1 @@
+### Na Seção 8 aprendi tudo sobre Funções em Python, vi o funcionamento e o objetivo delas, e como definir uma função, aprendi todos os tipos de função, com parâmetro e sem parâmetro, com retorno e sem retorno, vi sobre o parâmetro padrão e por fim entendi sobre o *args e **kwargs nas Funções Python.

@@ -1,2 +1,1 @@
-Na Seção 6 vi sobre as Estruturas de Repetição em Python, aprendi sobre as estruturas For e While, 
-assim como a utilização mais aprofundada do range e a utilização do break para finalizarmos um loop.
+### Na Seção 6 vi sobre as Estruturas de Repetição em Python, aprendi sobre as estruturas For e While,  assim como a utilização mais aprofundada do range e a utilização do break para finalizarmos um loop.
