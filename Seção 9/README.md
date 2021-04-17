@@ -1,0 +1,1 @@
+### Na Seção 9 vi sobre as Comprehensions em Python, vimos esse recurso bem poderoso do Python, onde posso utilizar esse conhecimento em List, Set e Dict, para trabalhar com essas coleções com facilidade e rapidez.
