@@ -1,0 +1,1 @@
+### Na Seção 16 aprendi sobre Orientação a Objeto em Python, aprendi primeiro sobre o objetivo da OO, depois vi sobre Classes, Atributos, Métodos, Objetos, Encapsulamento e Abstração. Assim entendi como se fazia isso no Python, mas já tinha aprendido Orientação a Objeto antes em Java que já me deu uma boa bagagem. 
